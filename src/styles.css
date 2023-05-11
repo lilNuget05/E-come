@@ -1,0 +1,71 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.imgStyle {
+  width: 200px;
+  height: 200px;
+}
+.CardStyle {
+  width: 220px;
+  padding: 5px;
+}
+.nameStyle {
+  font-weight: bold;
+  font-size: 16px;
+  padding: 5px;
+}
+.price-size-style {
+  font-size: 18px;
+  padding: 5px;
+}
+.buttonStyle {
+  width: 220px;
+}
+.content-grid {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  height: 895px;
+}
+.button-grid {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+.button-style-1 {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.button-style-2 {
+  padding: 5px;
+  margin-bottom: 10px;
+  text-align: right;
+}
+.button-style-3 {
+  margin-right: 15px !important;
+  width: 200px;
+}
+.button-style-4 {
+  margin-right: 15px !important;
+  margin-left: 15px !important;
+  width: 100px;
+}
+.produkti-grid {
+  display: grid;
+  grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
+  column-gap: 5px;
+  row-gap: 10px;
+  text-align: center;
+}
+.Category-content-style {
+  background-color: lightgray;
+  text-align: center;
+}
+html,
+body {
+  height: 100%;
+}
+.category-button-style {
+  color: black;
+  width: 98%;
+  margin-top: 5px;
+}
